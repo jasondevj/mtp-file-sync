@@ -16,8 +16,8 @@ How To Run
         With (Filter Directory) not set all files inside (Destination Location) will be copied to c:/sync-path/Gallery/images
         If (Filter Directory) is set as '/Gallery' files will be copied to c:/sync-path/images
 
-    Destination Location : Location on your PC
-    Source Path : Location on the Device
-    Filter Directory : In case there is a intermediate directory that you want to remove from the destination directory while copying the files
+    (Destination Location) : Location on your PC
+    (Source Path) : Location on the Device
+    (Filter Directory) : In case there is a intermediate directory that you want to remove from the destination directory while copying the files
 
 
