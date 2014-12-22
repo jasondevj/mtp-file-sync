@@ -13,8 +13,8 @@ How To Run
     Example 2: ./start.bat "c:/sync-path" "/Gallery" "/Gallery"
         (Destination Location) = "c:/sync-path"
         (Source Path)          = "/Gallery/images"
-        With (Filter Directory) not set all files inside (Destination Location) will be copied to c:/sync-path/Gallery/images
-        If (Filter Directory) is set as '/Gallery' files will be copied to c:/sync-path/images
+         With (Filter Directory) not set all files inside (Destination Location) will be copied to c:/sync-path/Gallery/images
+         If (Filter Directory) is set as '/Gallery' files will be copied to c:/sync-path/images
 
     (Destination Location) : Location on your PC
     (Source Path) : Location on the Device
