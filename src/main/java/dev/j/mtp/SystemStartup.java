@@ -15,7 +15,7 @@ public class SystemStartup {
 
     public static void main(String[] args) throws Throwable {
         if (args.length < 2) {
-            System.out.println("Please specify the paths as following <the target location> <source location>");
+            System.out.println("Please specify the paths as following <Destination Location> <Source Path>");
             System.out.println("In case there is a intermediate directory that you want to remove from the destination directory while copying the files, you can specify it as the third parameter");
             System.exit(-1);
         }
